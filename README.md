@@ -4,6 +4,14 @@ A very simple TODO API in [Dart](https://dart.dev) based on the [shelf](https://
 
 This project is ment to demonstrate how to create a simple REST API using [Dart](https://dart.dev).
 
+## Download dependencies
+
+As mentioned this project depends on the [shelf](https://pub.dev/packages/shelf) package. To download the package and make it available to the project run:
+
+```shell
+dart pub get
+```
+
 ## Compile and run
 
 Assuming the Dart SDK installed (instructions can be found [here](https://dart.dev/tutorials/server/get-started#2-install-dart)) compiling the SDK can be done using the following command from the root of the project:
